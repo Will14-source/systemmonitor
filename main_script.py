@@ -9,7 +9,7 @@ Esse script é escrito utilizando o módulo 'psutil' e baseada nela é criado
 alguns gatilhos para que nossa máquina seja monitorada.
 
 """
-destinatarios = ["cruzwilliam14@gmail.com", "willia55@hotmail.com"]
+destinatarios = ["E-mails de destinatários aqui."]
 assunto = "Sistema de Monitoramento"
 
 """

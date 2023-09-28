@@ -1,7 +1,6 @@
-from email.message import EmailMessage
 import json
 import smtplib
-
+from email.message import EmailMessage
 
 
 """
