@@ -60,6 +60,7 @@ sudo systemctl start myscript.service
 ```bash
 sudo systemctl status myscript.service
 ```
+5 - Por conveniência reinicie a máquina.
 
 ## Windows
 
